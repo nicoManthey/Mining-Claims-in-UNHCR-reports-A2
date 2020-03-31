@@ -14,6 +14,13 @@ The general computation graph of the system is to train a classifier to classify
 
 # Instructions how to run the code
 
+Our code was build and only tested with the following versions of python packages:
+- pytorch = 1.4.0
+- torchtext = 0.4.0
+- scikit-learn == 0.22.1
+- numpy == 1.18.2
+- pandas == 0.25.0
+
 Since the files are too large, we uploaded our complete work to the following link:
 
 www.test-page.de
