@@ -8,7 +8,7 @@ Liubov Karpova <br>
 
 Luise Strietzel <br>
 
-The task we set ourselves was to build a model that predicts claims in unlabelled data. We chose to implement the system described in the paper "Joint RNN Model for Argument Component Boundary Detection" https://arxiv.org/abs/1705.02131, though we made some adjustments.
+The task we set ourselves was to build a model that predicts claims in unlabelled data. We chose to implement the system described in the paper "<b>Joint RNN Model for Argument Component Boundary Detection</b>" https://arxiv.org/abs/1705.02131, though we made some adjustments.
 
 The general computation graph of the system is to train a classifier to classify sentences with and without argument components (e.g. claims), and feed the sentences that were categorized as claims to a BIO-tagger (see the following image). 
 
