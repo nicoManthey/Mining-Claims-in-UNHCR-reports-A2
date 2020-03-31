@@ -50,7 +50,7 @@ The linked folder looks like this:
 Our code is to be checked by reading / running the following notebooks:
 - 01_train_eval_essays  (training and evaluating our model on essays dataset for 200 epochs).
 - 02_train_eval_IBM_essays (trainng and evaluating our model on IBM and essays data combined for 100 epochs, saving model).
-- 03_inference_IBM_essays (loading the saved model from 02 and perform inference on UNHCR data).
+- 03_inference_UNHCR (loading the saved model from 02 and perform inference on UNHCR data).
 
 The evaluation output of when the notebooks were executed is still contained in the notebooks. To not loose the printed output when re-running the code we have provided a copy of the notebooks in the folder "copy_of_notebooks".
 
