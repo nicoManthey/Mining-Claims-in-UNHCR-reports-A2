@@ -20,7 +20,7 @@ www.test-page.de
 
 The linked folder looks like this:
 
-![](img/Bildschirmfoto 2020-03-31 um 17.47.07.png)
+![](img/img_of_folder_structure.png)
 
 Our code is to be checked by reading / running the following notebooks:
 - 01_train_eval_essays  (training and evaluating our model on essays dataset for 200 epochs)
