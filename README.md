@@ -3,7 +3,9 @@
 This is the code for our project for the class Opinion and Argument Mining.
 
 Nico Manthey
+
 Liubov Karpova
+
 Luise Strietzel
 
 The task we set ourselves was to build a model that predicts claims in unlabelled data. We chose to implement the system described in the paper "Joint RNN Model for Argument Component Boundary Detection" https://arxiv.org/abs/1705.02131, though we made some adjustments.
