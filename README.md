@@ -14,6 +14,14 @@ The general computation graph of the system is to train a classifier to classify
 
 ![](img/computation_diagram.png)
 
+# Datasets
+We use the Persuasive Essays Dataset, obtained from: 
+https://www.informatik.tu-darmstadt.de/ukp/research_6/data/argumentation_mining_1/argument_annotated_essays/index.en.jsp
+
+And the IBM Claim Stance dataset, obtained from:
+
+https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml
+
 # Instructions how to run the code
 
 Our code was build and tested only with the following versions of python packages:
