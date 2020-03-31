@@ -62,7 +62,7 @@ The folder "data" contains:
 - output of inference on UNHCR reports (as html file) using model from notebook 02.
 
 
-
+The files "_argument_classifier_classes_custom.py" and "_bio_tagger_classes.py" are subclasses that are used by the model.
 
 
 
