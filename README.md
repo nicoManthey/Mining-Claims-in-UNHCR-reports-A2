@@ -17,11 +17,16 @@ The general computation graph of the system is to train a classifier to classify
 # Instructions how to run the code
 
 Our code was build and only tested with the following versions of python packages:
+- spacy == 2.2.4
 - pytorch = 1.4.0
 - torchtext = 0.4.0
 - scikit-learn == 0.22.1
 - numpy == 1.18.2
 - pandas == 0.25.0
+- spacy 
+Also we used spacy's en_core_web_sm which can be downloaded by typing in the terminal:
+python -m spacy download en_core_web_sm
+
 
 Since the files are too large, we uploaded our complete work to the following link:
 
