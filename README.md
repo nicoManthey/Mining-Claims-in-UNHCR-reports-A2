@@ -23,9 +23,7 @@ Our code was build and only tested with the following versions of python package
 - scikit-learn == 0.22.1
 - numpy == 1.18.2
 - pandas == 0.25.0
-- spacy 
-Also we used spacy's en_core_web_sm which can be downloaded by typing in the terminal:
-python -m spacy download en_core_web_sm
+- Also we used spacy's en_core_web_sm which can be downloaded by typing in the terminal: python -m spacy download en_core_web_sm
 
 
 Since the files are too large, we uploaded our complete work to the following link:
