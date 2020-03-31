@@ -16,7 +16,8 @@ The general computation graph of the system is to train a classifier to classify
 
 # Instructions how to run the code
 
-Our code was build and only tested with the following versions of python packages:
+Our code was build and tested only with the following versions of python packages:
+- python == 3.7.1
 - spacy == 2.2.4
 - pytorch = 1.4.0
 - torchtext = 0.4.0
