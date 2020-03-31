@@ -45,7 +45,7 @@ www.test-page.de
 
 The linked folder looks like this:
 
-![](img/img_of_folder_structure.png)
+![](img/img_of_folder_structure_.png)
 
 Our code is to be checked by reading / running the following notebooks:
 - 01_train_eval_essays  (training and evaluating our model on essays dataset for 200 epochs).
