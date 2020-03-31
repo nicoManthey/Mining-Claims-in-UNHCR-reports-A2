@@ -23,7 +23,7 @@ And the IBM Claim Stance dataset, obtained from:
 
 https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml
 
-# Instructions how to run the code
+# Python packages used
 
 Our code was build and tested only with the following versions of python packages:
 - python == 3.7.1
@@ -35,10 +35,13 @@ Our code was build and tested only with the following versions of python package
 - pandas == 0.25.0
 - Also we used spacy's en_core_web_sm which can be downloaded by typing in the terminal: python -m spacy download en_core_web_sm
 
+# Download link
 
-Since the files are too large, we uploaded our complete work to the following link:
+Since the files are too large, we uploaded our complete work to the following link. 
 
 www.test-page.de
+
+# Instructions how to run the code
 
 The linked folder looks like this:
 
